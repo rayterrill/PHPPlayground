@@ -7,4 +7,4 @@ What's included here:
 * getUserAvailability.php - The class that does all the work
 * testUserAvailability.php - An example of using the class to get some data from Exchange
 
-Hope you find this userful!
+Hope you find this useful!
