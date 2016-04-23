@@ -10,4 +10,4 @@ What's included here:
 * UseTheClass.php - An example of using an instance of the class to get some data from a SQL Server
 * displayChart.html - The Google Chart code, calling the UseTheClass.php PHP page asynchronously, and building out a pie chart
 
-Hope you find this userful!
+Hope you find this useful!
